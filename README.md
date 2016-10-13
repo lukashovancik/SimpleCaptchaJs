@@ -1,18 +1,15 @@
 # SimpleCaptchaJs
 
 ##DEPENDENCIES:
-BOOTSTRAP : http://getbootstrap.com/getting-started/
-JQUERY    : http://jquery.com/download/
+*BOOTSTRAP : http://getbootstrap.com/getting-started/*
+*JQUERY    : http://jquery.com/download/*
 
 ##EXAMPLE
 
 <script>
-```javascript
-	    Captcha('#generatedCaptcha','#captcha','.generateNewCaptcha','#form');
-```
+	Captcha('#generatedCaptcha','#captcha','.generateNewCaptcha','#form');
 </script>
 
-```
 <form action="#" id="form">
 	<div class="row form-group">
 		<div class="col-md-12">
