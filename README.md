@@ -1,11 +1,12 @@
 # SimpleCaptchaJs
 
 ##DEPENDENCIES:
-*BOOTSTRAP : http://getbootstrap.com/getting-started/*
-*JQUERY    : http://jquery.com/download/*
+BOOTSTRAP : http://getbootstrap.com/getting-started/
+JQUERY    : http://jquery.com/download/
 
 ##EXAMPLE
 
+```
 <script>
 	Captcha('#generatedCaptcha','#captcha','.generateNewCaptcha','#form');
 </script>
