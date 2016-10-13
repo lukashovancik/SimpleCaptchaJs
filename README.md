@@ -1,2 +1,5 @@
 # SimpleCaptchaJs
-# SimpleCaptchaJs
+DEPENDENCIES:
+
+BOOTSTRAP
+JQUERY
