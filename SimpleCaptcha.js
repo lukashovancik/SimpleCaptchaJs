@@ -66,8 +66,13 @@
         //event...
         var onCreate = function ()
         {
-            init();
+             $(document).ready( onDocumentReady );
         }
+
+        var onDocumentReady = function()
+        {
+            init();
+        };
         
         var onClickGenarate = function ()
         {
