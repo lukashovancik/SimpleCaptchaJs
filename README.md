@@ -1,6 +1,6 @@
 # SimpleCaptchaJs
 
-##DEPENDENCIES:
+## DEPENDENCIES:
 [BOOTSTRAP ](http://getbootstrap.com/getting-started/)
 [JQUERY ](http://jquery.com/download/)
 
