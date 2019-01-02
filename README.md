@@ -4,7 +4,7 @@
 [BOOTSTRAP ](http://getbootstrap.com/getting-started/)
 [JQUERY ](http://jquery.com/download/)
 
-##EXAMPLE
+## EXAMPLE
 
 ```
 <script>
